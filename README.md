@@ -1,5 +1,5 @@
 # cosine-sim-hw
-cosine similarity assignment of data structures course hacettepe university
+cosine similarity assignment for data structures course of hacettepe university
 
 ### Prerequisites
 
