@@ -3,8 +3,8 @@ cosine similarity assignment of data structures course hacettepe university
 
 ### Prerequisites
 
-*a machine running any linux distribution
-*gcc
+* a machine running any linux distribution
+* gcc
 
 ### Installing
 
@@ -16,6 +16,6 @@ copy the txt files to the directory of compiled executable then run the executab
 
 ### Limitations
 
-*only .txt files supported.
+* only .txt files supported.
 *number of the files to be compared cannot be more than 10.
-*if there's a line more than 8KB's, segmentation fault will occur.
+* if there's a line more than 8KB's, segmentation fault will occur.
