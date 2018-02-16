@@ -17,5 +17,5 @@ copy the txt files to the directory of compiled executable then run the executab
 ### Limitations
 
 * only .txt files supported.
-*number of the files to be compared cannot be more than 10.
+* number of the files to be compared cannot be more than 10.
 * if there's a line more than 8KB's, segmentation fault will occur.
